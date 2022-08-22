@@ -1,0 +1,2 @@
+Prefix plugins/SMALT/example/
+Plugin SMALT inputfile parameters.txt outputfile output.smalt

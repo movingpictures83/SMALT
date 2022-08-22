@@ -1,0 +1,2 @@
+genomefile	plugins/SMALT/example/SMALT_Human
+sequences	plugins/SMALT/example/S12_R1.fastq
